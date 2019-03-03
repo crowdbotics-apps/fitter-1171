@@ -1,0 +1,3 @@
+rootProject.name = 'fitter_1171'
+
+include ':app'
